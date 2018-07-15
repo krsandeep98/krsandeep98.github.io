@@ -1,5 +1,5 @@
 markdown: redcarpet
-highlighter: pygments
+highlighter: 
 permalink: /:title
 
 url: https://krsandeep98.github.io
