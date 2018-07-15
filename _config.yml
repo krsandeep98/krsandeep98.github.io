@@ -2,7 +2,7 @@ markdown: redcarpet
 highlighter: pygments
 permalink: /:title
 
-url: http://krsandeep98.github.io
+url: https://krsandeep98.github.io
 baseurl: 
 
 redcarpet:
