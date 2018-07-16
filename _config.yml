@@ -1,6 +1,6 @@
 highlighter: rouge 
 permalink: /:title
-color_scheme: azul
+color_scheme: amber
 
 url: https://krsandeep98.github.io
 baseurl: 
