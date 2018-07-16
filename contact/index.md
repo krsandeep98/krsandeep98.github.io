@@ -3,9 +3,9 @@ layout: page
 title: Contact
 ---
 <div align="center">
-<b>Email:</b> vrama_at_gatech_dot_edu<br/>
+<b>Email:</b> sandepkr_at_iitk_dot_ac_dot_in<br/>
 <b>Address:</b> <br/>
-2nd Floor, College of Computing Building <br/>
-801 Atlantic Dr NW, Atlanta, GA 30332
+CC 202, Computer Center IIT Kanpur <br/>
+Kalyanpur Uttar Pradesh India 208016
 </div>
 
