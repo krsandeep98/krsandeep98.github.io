@@ -9,3 +9,7 @@ CC 202, Computer Center IIT Kanpur <br/>
 Kalyanpur Uttar Pradesh India 208016
 </div>
 
+<div align="center">
+### Social
+[Quora](https://www.quora.com/profile/Sandeep-Kumar-1621) [Facebook](https://www.facebook.com/sandeepkumar.271)
+</div>
