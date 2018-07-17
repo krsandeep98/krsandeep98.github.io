@@ -10,6 +10,5 @@ Kalyanpur Uttar Pradesh India 208016
 </div>
 
 <div align="center">
-### Social
-[Quora](https://www.quora.com/profile/Sandeep-Kumar-1621) [Facebook](https://www.facebook.com/sandeepkumar.271)
+<a href="https://www.quora.com/profile/Sandeep-Kumar-1621">[Quora]</a><a href="https://www.facebook.com/sandeepkumar.271">[Facebook]</a>
 </div>
