@@ -20,5 +20,5 @@ I have worked on the problem of Visual Question Generation in which we generated
 <li> Code for our COLING'18 paper on <a href="https://github.com/badripatro/PQG">Learning Semantic Sentence Embeddings using Pair-wise Discriminator</a></li>
 </ul>	
 <hr/>
-If you like this layout/page, see <a href='demo-post'>this</a> to build your own using github+jekyll
+If you like this layout/page, see <a href='demo-post'>this</a> to build your own using github+jekyll.<br>
 Thanks to <a href="https://github.com/vrama91/vrama91.github.io">Ramakrishna Vedantam</a> for the website template.
