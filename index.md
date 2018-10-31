@@ -10,7 +10,7 @@ I have worked on the problem of Visual Question Generation in which we generated
 
 <h3>News</h3>
 <ul>
-<li> <b>[August, 2018]</b> Our <a href="/docs/emnlp_final.pdf">paper</a> on Multimodal Differential Network for Visual Question Generation has been accepted at <a href="http://emnlp2018.org/">EMNLP'18</a>! Code and updated pre-print coming soon...</li>
+<li> <b>[August, 2018]</b> Our <a href="http://aclweb.org/anthology/D18-1434">paper</a> on Multimodal Differential Network for Visual Question Generation has been accepted at <a href="http://emnlp2018.org/">EMNLP'18</a>! <a href="https://github.com/badripatro/Visual_Question_Generation">[Code] </a></li>
 <li> <b>[May, 2018]</b> Our <a href="https://arxiv.org/abs/1806.00807.pdf">paper</a> on Learning semantic sentence embeddings has been accepted at <a href="https://coling2018.org/">COLING'18</a>!</li>
 <li> <b>[December, 2017]</b> I interned at NVIDIA Graphics, Bangalore where I worked on generating temporally consistent videos using GANs</li>
 </ul>
