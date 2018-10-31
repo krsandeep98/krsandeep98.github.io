@@ -16,7 +16,7 @@ layout: page
 	<a href="http://aclweb.org/anthology/D18-1434">Multimodal Differential Network for Visual Question Generation
 </a><br/>
 	 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2018 <br/>
-	<a href="https://github.com/badripatro/Visual_Question_Generation">[Code]</a>, <a href="https://docs.google.com/drawings/d/1xIUZOsaWX-SfvGNzSpFNSSfg8HbwBiNd6ie3hfZLjAE/edit?usp=sharing">[Poster presented at EMNLP 2018]</a><br/>
+	<a href="https://github.com/badripatro/Visual_Question_Generation">[Code]</a>, <a href="/docs/EMNLP_poster_MDN_VQG.pdf">[Poster presented at EMNLP 2018]</a><br/>
 	</li>
 	
 </ol>
