@@ -10,7 +10,7 @@ I have worked on the problem of Visual Question Generation in which we generated
 
 <h3>News</h3>
 <ul>
-<li> <b>[December, 2019]</b> Our <a href="">paper</a> on Deep Bayesian Network for Visual Question Generation has been accepted at <a href="http://openaccess.thecvf.com/content_WACV_2020/papers/Patro_Deep_Bayesian_Network_for_Visual_Question_Generation_WACV_2020_paper.pdf">WACV'20</a>! </li>
+<li> <b>[December, 2019]</b> Our <a href="http://openaccess.thecvf.com/content_WACV_2020/papers/Patro_Deep_Bayesian_Network_for_Visual_Question_Generation_WACV_2020_paper.pdf">paper</a> on Deep Bayesian Network for Visual Question Generation has been accepted at <a href="http://wacv20.wacv.net/">WACV'20</a>! </li>
 <li> <b>[August, 2018]</b> Our <a href="http://aclweb.org/anthology/D18-1434">paper</a> on Multimodal Differential Network for Visual Question Generation has been accepted at <a href="http://emnlp2018.org/">EMNLP'18</a>! <a href="https://github.com/badripatro/Visual_Question_Generation">[Code] </a></li>
 <li> <b>[May, 2018]</b> Our <a href="https://arxiv.org/abs/1806.00807.pdf">paper</a> on Learning semantic sentence embeddings has been accepted at <a href="https://coling2018.org/">COLING'18</a>!</li>
 <li> <b>[December, 2017]</b> I interned at NVIDIA Graphics, Bangalore where I worked on generating temporally consistent videos using GANs</li>
