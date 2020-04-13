@@ -5,7 +5,14 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
-  <li> Badri N. Patro<sup>*</sup>, Vinod K. Kurmi<sup>*</sup>, <em>Sandeep Kumar<sup>*</sup></em>, Vinay P. Namboodiri <br/>
+  <li> Badri N. Patro, Vinod K. Kurmi, <em>Sandeep Kumar</em>, Vinay P. Namboodiri <br/>
+	<a href="http://openaccess.thecvf.com/content_WACV_2020/papers/Patro_Deep_Bayesian_Network_for_Visual_Question_Generation_WACV_2020_paper.pdf">Deep Bayesian Network for Visual Question Generation
+</a><br/>
+	 International Conference on Computational Linguistics (WACV), 2020 <br/>
+	<br/>
+	</li>
+
+<li> Badri N. Patro<sup>*</sup>, Vinod K. Kurmi<sup>*</sup>, <em>Sandeep Kumar<sup>*</sup></em>, Vinay P. Namboodiri <br/>
 	<a href="https://arxiv.org/abs/1806.00807">Learning Semantic Sentence Embeddings using Pair-wise Discriminator
 </a><br/>
 	 International Conference on Computational Linguistics (COLING), 2018 <br/>
