@@ -3,10 +3,10 @@ layout: page
 title: Contact
 ---
 <div align="center">
-<b>Email:</b> sandepkr_at_iitk_dot_ac_dot_in<br/>
+<b>Email:</b> sandeep_at_cs_dot_unc_dot_edu<br/>
 <b>Address:</b> <br/>
-CC 202, Computer Center IIT Kanpur <br/>
-Kalyanpur Uttar Pradesh India 208016
+FB 341 Dept. of Computer Science <br/>
+UNC Chapel Hill, NC, 27516
 </div>
 
 <div align="center">
