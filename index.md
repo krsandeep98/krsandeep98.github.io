@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-Hey, Welcome to my homepage! I am a first year PhD student in the Computer Science department at University of North Carolina at Chapel Hill. In the past, I have had the opportunity to work with Prof. <a href='https://www.cse.iitk.ac.in/users/vinaypn/'>Vinay P. Namboodiri</a> and Prof. <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a> during my undergrad. My research interests include Computer Vision and Natural Language Processing. 
+Hey, Welcome to my homepage! I am a second year PhD student in the Computer Science department at University of North Carolina at Chapel Hill. In the past, I have had the opportunity to work with Prof. <a href='https://www.cse.iitk.ac.in/users/vinaypn/'>Vinay P. Namboodiri</a> and Prof. <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a> during my undergrad. My research interests include Computer Vision and Natural Language Processing. 
 
 I have worked on the problem of Visual Question Generation in which we generated natural questions using differential multimodal embeddings and experimented with different ways of obtaining the multimodal embeddings. I also explored the problem of Visual Dialog under the guidance of <a href='https://abhishekdas.com/'>Abhishek Das</a>. I am also interested in the problem of finding better methods of evaluation in NLP and obtaining proper sentence embeddings. 
 <hr/>
